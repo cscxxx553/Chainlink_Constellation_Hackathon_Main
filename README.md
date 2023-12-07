@@ -23,4 +23,5 @@ Older version of Openzeppelin library:
 forge install OpenZeppelin/openzeppelin-contracts@v4.9.3
 ```
 
-
+## Note
+The token swap smart contract is hard-code for demo.
